@@ -19,7 +19,7 @@ namespace Conquest
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            /*testdsfdfdsfdff*/
+            /*Trop fdgfdgdfggdfggfgcool*/
         }
     }
 }
