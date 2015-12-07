@@ -18,7 +18,7 @@ namespace Conquest
         }
 
         private void Form1_Load(object sender, EventArgs e)
-        { /* 1234*/
+        { /* 1234  fils de pute */
         }
     }
 }
