@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace Conquest
 {
-    class Boutique
+    class Boutique : Carte
     {
-        
+        public Boutique()
+        {
+            InitializeComponent();
+        }
+
+        private void Boutique_Load(object sender, EventArgs e)
+        {
+        }
     }
 }
