@@ -10,6 +10,7 @@ namespace Conquest
     {
         private void Boutique_Load(object sender, EventArgs e)
         {
+            Carte.ActiveForm.Controls.Clear();
 
         }
     }
