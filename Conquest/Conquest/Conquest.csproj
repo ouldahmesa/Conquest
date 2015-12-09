@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Boutique1.cs">
+    <Compile Include="Boutique.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Boutique1.Designer.cs">
-      <DependentUpon>Boutique1.cs</DependentUpon>
+    <Compile Include="Boutique.Designer.cs">
+      <DependentUpon>Boutique.cs</DependentUpon>
     </Compile>
     <Compile Include="Carte.cs">
       <SubType>Form</SubType>
@@ -60,8 +60,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Boutique1.resx">
-      <DependentUpon>Boutique1.cs</DependentUpon>
+    <EmbeddedResource Include="Boutique.resx">
+      <DependentUpon>Boutique.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Carte.resx">
       <DependentUpon>Carte.cs</DependentUpon>
