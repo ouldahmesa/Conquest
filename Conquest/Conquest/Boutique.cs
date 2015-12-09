@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Conquest
 {
-    public partial class Form1 : Form
+    public partial class Boutique : Form
     {
-        public Form1()
+        public Boutique()
         {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Boutique_Load(object sender, EventArgs e)
         {
 
         }

@@ -1,6 +1,6 @@
 ﻿namespace Conquest
 {
-    partial class Form1
+    partial class Boutique
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // Boutique
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 262);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Name = "Boutique";
+            this.Text = "Boutique";
+            this.Load += new System.EventHandler(this.Boutique_Load);
             this.ResumeLayout(false);
 
         }
