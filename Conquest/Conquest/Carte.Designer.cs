@@ -2,10 +2,6 @@
 {
     partial class Carte
     {
-        /* asdasdad */
-    }
-        partial class Boutique
-    {
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -39,9 +35,9 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 262);
-            this.Name = "Boutique";
-            this.Text = "Boutique";
-            this.Load += new System.EventHandler(this.Boutique_Load);
+            this.Name = "Carte";
+            this.Text = "Carte";
+            this.Load += new System.EventHandler(this.Carte_Load);
             this.ResumeLayout(false);
 
         }

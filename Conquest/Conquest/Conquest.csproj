@@ -46,16 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Boutique.cs">
+    <Compile Include="Boutique.cs" />
+    <Compile Include="Carte.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Boutique.Designer.cs">
-      <DependentUpon>Boutique.cs</DependentUpon>
+    <Compile Include="Carte.Designer.cs">
+      <DependentUpon>Carte.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Boutique.resx">
-      <DependentUpon>Boutique.cs</DependentUpon>
+    <EmbeddedResource Include="Carte.resx">
+      <DependentUpon>Carte.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
