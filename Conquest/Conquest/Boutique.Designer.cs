@@ -1,6 +1,10 @@
 ﻿namespace Conquest
 {
-    partial class Boutique
+    partial class Carte
+    {
+        /* asdasdad */
+    }
+        partial class Boutique
     {
         /// <summary>
         /// Required designer variable.
